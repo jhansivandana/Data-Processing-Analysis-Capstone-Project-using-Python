@@ -1,4 +1,4 @@
-# Python Data Processing & Analysis Capstone Project
+# Data Processing & Analysis Capstone Project using Python
 ## ✅ Project Overview
 
 This project focuses on performing end-to-end data manipulation, transformation, cleansing, integration, and analysis using Python—primarily through Pandas and NumPy. The dataset consists of three separate tables representing Employees, Projects and related attributes.
