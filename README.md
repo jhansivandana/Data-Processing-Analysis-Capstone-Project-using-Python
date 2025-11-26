@@ -1,7 +1,7 @@
 # Data Processing & Analysis Capstone Project using Python
 ## ✅ Project Overview
 
-This project focuses on performing end-to-end data manipulation, transformation, cleansing, integration, and analysis using Python—primarily through Pandas and NumPy. The dataset consists of three separate tables representing Employees, Projects and related attributes.
+This project focuses on performing end-to-end data manipulation, transformation, cleansing, integration and analysis using Python—primarily through Pandas and NumPy. The dataset consists of three separate tables representing Employees, Projects and related attributes.
 The project simulates a real-world data engineering and data analytics workflow where raw structured data is imported, cleaned, enriched, combined and analyzed to derive actionable insights.
 
 The project covers essential data science concepts such as handling missing values, feature engineering, conditional updates, joins, grouping, filtering and exporting results. Performance evaluation emphasizes accuracy, problem-solving approach, logical thinking and familiarity with Python data workflows.
@@ -20,7 +20,7 @@ The project covers essential data science concepts such as handling missing valu
 
     • Split text fields into structured attributes (e.g., first and last name)
 
-    • Replace, delete, and update categorical values
+    • Replace, delete and update categorical values
 
 → Data Integration
 
@@ -98,7 +98,7 @@ The project covers essential data science concepts such as handling missing valu
 
 ## ✅ Conclusion
 
-This project successfully demonstrates the ability to handle real-world structured datasets using Python and Pandas. It showcases strong foundational skills in data wrangling, preprocessing, integration, and applied business logic.
+This project successfully demonstrates the ability to handle real-world structured datasets using Python and Pandas. It showcases strong foundational skills in data wrangling, preprocessing, integration and applied business logic.
 
 ## By completing the tasks, the project proves proficiency in:
 
